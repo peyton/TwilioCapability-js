@@ -1,0 +1,1 @@
+exports.TwilioCapability = require('./nodejs/lib/TwilioCapability');
